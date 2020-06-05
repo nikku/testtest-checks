@@ -1,6 +1,4 @@
 5
 AAA
 V
-B
-FIX BUG
-asd
+BYSAD
