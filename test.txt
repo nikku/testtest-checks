@@ -4,4 +4,3 @@ V
 B
 
 CLOSE
-ASD
