@@ -3,6 +3,3 @@ AAA
 V
 B
 
-OPEN
-CLOSED
-REOPEN
