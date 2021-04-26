@@ -1,1 +1,1 @@
-throw new Error();
+throw new Error() && console.log('HELLOO')
