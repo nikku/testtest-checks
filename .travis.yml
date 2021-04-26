@@ -1,4 +1,4 @@
 language: node_js
 node_js: 'node'
 script: npx nyc --reporter lcov npm test
-after_success: npx codecov
+after_script: npx codecov
