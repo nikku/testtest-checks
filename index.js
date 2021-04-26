@@ -1,1 +1,1 @@
-throw new Error() && console.log('HELLOO')
+console.log('HELLOO')
